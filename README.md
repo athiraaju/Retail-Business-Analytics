@@ -28,13 +28,13 @@ This project presents a Power BI dashboard designed to explore retail business p
 ## Dashboard Preview
 
 ### Sales Dashboard
-[Sales Dashboard](sales.png)
+![Sales Dashboard](sales.PNG)
 
 ### Profit Dashboard
-[Profit Dashboard](profit.png)
+![Profit Dashboard](profit.PNG)
 
 ### Demographic Dashboard
-[Demographic Dashboard](demographic.png)
+![Demographic Dashboard](demographic.PNG)
 
 ## How to View
 Download the PBIX file and open it using Microsoft Power BI Desktop. The PDF file can be viewed to preview the report.
